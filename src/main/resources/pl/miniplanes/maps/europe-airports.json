@@ -1,0 +1,317 @@
+[
+  {
+    "code": "LHR",
+    "name": "London Heathrow Airport",
+    "city": "London",
+    "country": "GB",
+    "latitude": 51.470748,
+    "longitude": -0.459909,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "CDG",
+    "name": "Charles de Gaulle International Airport",
+    "city": "Paris",
+    "country": "FR",
+    "latitude": 49.00896,
+    "longitude": 2.554117,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "FRA",
+    "name": "Frankfurt Main Airport",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "latitude": 50.026706,
+    "longitude": 8.55835,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "MAD",
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "city": "Madrid",
+    "country": "ES",
+    "latitude": 40.493407,
+    "longitude": -3.572249,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "LIS",
+    "name": "Lisbon Humberto Delgado Airport",
+    "city": "Lisbon",
+    "country": "PT",
+    "latitude": 38.7813,
+    "longitude": -9.13592,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "DUB",
+    "name": "Dublin Airport",
+    "city": "Dublin",
+    "country": "IE",
+    "latitude": 53.428713,
+    "longitude": -6.262121,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "EDI",
+    "name": "Edinburgh Airport",
+    "city": "Ingliston, Edinburgh",
+    "country": "GB",
+    "latitude": 55.950145,
+    "longitude": -3.372288,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "OSL",
+    "name": "Oslo-Gardermoen International Airport",
+    "city": "Oslo",
+    "country": "NO",
+    "latitude": 60.193901,
+    "longitude": 11.1004,
+    "shape": "DIAMOND"
+  },
+  {
+    "code": "ARN",
+    "name": "Stockholm-Arlanda Airport",
+    "city": "Stockholm",
+    "country": "SE",
+    "latitude": 59.64849,
+    "longitude": 17.928829,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "HEL",
+    "name": "Helsinki Vantaa Airport",
+    "city": "Helsinki",
+    "country": "FI",
+    "latitude": 60.318363,
+    "longitude": 24.963341,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "CPH",
+    "name": "Copenhagen Kastrup Airport",
+    "city": "Copenhagen",
+    "country": "DK",
+    "latitude": 55.617900848389,
+    "longitude": 12.656000137329,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "AMS",
+    "name": "Amsterdam Airport Schiphol",
+    "city": "Amsterdam",
+    "country": "NL",
+    "latitude": 52.308601,
+    "longitude": 4.76389,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "BRU",
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "country": "BE",
+    "latitude": 50.901402,
+    "longitude": 4.48444,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "ZRH",
+    "name": "Zürich Airport",
+    "city": "Zurich",
+    "country": "CH",
+    "latitude": 47.458056,
+    "longitude": 8.548056,
+    "shape": "STAR"
+  },
+  {
+    "code": "VIE",
+    "name": "Vienna International Airport",
+    "city": "Vienna",
+    "country": "AT",
+    "latitude": 48.110298,
+    "longitude": 16.5697,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "country": "CZ",
+    "latitude": 50.100874,
+    "longitude": 14.259911,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "WAW",
+    "name": "Warsaw Chopin Airport",
+    "city": "Warsaw",
+    "country": "PL",
+    "latitude": 52.165699,
+    "longitude": 20.9671,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "KRK",
+    "name": "Kraków John Paul II International Airport",
+    "city": "Balice",
+    "country": "PL",
+    "latitude": 50.077702,
+    "longitude": 19.7848,
+    "shape": "DIAMOND"
+  },
+  {
+    "code": "BUD",
+    "name": "Budapest Liszt Ferenc International Airport",
+    "city": "Budapest",
+    "country": "HU",
+    "latitude": 47.43018,
+    "longitude": 19.262393,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "FCO",
+    "name": "Rome–Fiumicino Leonardo da Vinci International Airport",
+    "city": "Rome",
+    "country": "IT",
+    "latitude": 41.804532,
+    "longitude": 12.251998,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "MXP",
+    "name": "Milan Malpensa International Airport",
+    "city": "Ferno",
+    "country": "IT",
+    "latitude": 45.6306,
+    "longitude": 8.72811,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "BCN",
+    "name": "Josep Tarradellas Barcelona-El Prat Airport",
+    "city": "Barcelona",
+    "country": "ES",
+    "latitude": 41.2971,
+    "longitude": 2.07846,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "NCE",
+    "name": "Nice-Côte d'Azur Airport",
+    "city": "Nice, Alpes-Maritimes",
+    "country": "FR",
+    "latitude": 43.658401,
+    "longitude": 7.21587,
+    "shape": "HEXAGON"
+  },
+  {
+    "code": "ATH",
+    "name": "Athens Eleftherios Venizelos International Airport",
+    "city": "Spata-Artemida",
+    "country": "GR",
+    "latitude": 37.936401,
+    "longitude": 23.9445,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "IST",
+    "name": "İstanbul Airport",
+    "city": "Istanbul",
+    "country": "TR",
+    "latitude": 41.274874,
+    "longitude": 28.732136,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "OTP",
+    "name": "Bucharest Henri Coandă International Airport",
+    "city": "Otopeni",
+    "country": "RO",
+    "latitude": 44.571792,
+    "longitude": 26.103285,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "SOF",
+    "name": "Sofia Airport",
+    "city": "Sofia",
+    "country": "BG",
+    "latitude": 42.696357,
+    "longitude": 23.417671,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "BEG",
+    "name": "Belgrade Nikola Tesla Airport",
+    "city": "Belgrade",
+    "country": "RS",
+    "latitude": 44.818401,
+    "longitude": 20.309099,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "ZAG",
+    "name": "Zagreb Franjo Tuđman International Airport",
+    "city": "Velika Gorica",
+    "country": "HR",
+    "latitude": 45.742901,
+    "longitude": 16.0688,
+    "shape": "DIAMOND"
+  },
+  {
+    "code": "TIA",
+    "name": "Tirana International Airport Mother Teresa",
+    "city": "Rinas",
+    "country": "AL",
+    "latitude": 41.4147,
+    "longitude": 19.7206,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "RIX",
+    "name": "Riga International Airport",
+    "city": "Riga",
+    "country": "LV",
+    "latitude": 56.920752,
+    "longitude": 23.970711,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "TLL",
+    "name": "Lennart Meri Tallinn Airport",
+    "city": "Tallinn",
+    "country": "EE",
+    "latitude": 59.413246,
+    "longitude": 24.83264,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "VNO",
+    "name": "Vilnius International Airport",
+    "city": "Vilnius",
+    "country": "LT",
+    "latitude": 54.634102,
+    "longitude": 25.285801,
+    "shape": "PENTAGON"
+  },
+  {
+    "code": "HAM",
+    "name": "Hamburg Helmut Schmidt Airport",
+    "city": "Hamburg",
+    "country": "DE",
+    "latitude": 53.630402,
+    "longitude": 9.98823,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "BER",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "country": "DE",
+    "latitude": 52.361738,
+    "longitude": 13.502341,
+    "shape": "CROSS"
+  }
+]

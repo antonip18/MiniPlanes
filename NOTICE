@@ -1,0 +1,37 @@
+Mini Planes 2.1.1
+
+The domain types Airport, Airplane, AirplaneType, Passenger, Shape, Line,
+Point, GameData, Updater and AirportSupplier evolve the supplied Java
+prototype. Its presenter/editor design has been refactored into a ViewModel
+with no reference back to the window; the simulation has no JavaFX imports.
+
+Country outlines: Natural Earth, 1:50m Admin 0 Countries, public domain.
+https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
+https://www.naturalearthdata.com/about/terms-of-use/
+Input: ne_50m_admin_0_countries.geojson from
+https://github.com/nvkelso/natural-earth-vector
+Downloaded 2026-11-19; clipped and simplified for two game regions.
+Natural Earth uses de facto boundaries. These maps are for gameplay.
+
+Airport coordinates, names and IATA codes: OurAirports, public domain.
+https://ourairports.com/data/
+https://davidmegginson.github.io/ourairports-data/airports.csv
+Downloaded 2026-11-19. The game selects 35 airports per region and assigns
+fictional destination shapes, capacities and demand. This is not flight data
+for navigation. The original coordinate-only JSON was not available; the
+catalogs were reconstructed from this dataset.
+
+tools/build_map_data.py can regenerate the map resources from these inputs.
+Python and Shapely are required only for regeneration, not to build or play.
+
+Aircraft are now original vector silhouettes drawn by AirplanePainter, under
+this project's MIT license. Their fill follows the airline colour and their
+geometry scales with the map camera. Reusable SVG exports (two aircraft types
+in eight colours) are in assets/aircraft; regenerate them with
+python3 tools/export_aircraft.py. The former raster sprites are no longer used.
+Maps are redrawn at the current screen scale, rather than stretching a bitmap.
+The Americas retain North/South American land and nearby islands only.
+
+Dependencies are resolved by Maven and keep their own licenses:
+OpenJFX (GPLv2 with Classpath Exception), Jackson (Apache-2.0),
+JUnit (EPL-2.0, test dependency).

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-36 -32 72 64" width="288" height="256">
+<title>Amber widebody aircraft</title>
+<path d="M 32,0 C 32,-3 25,-5 19,-5 L 6,-5 L -9,-28 Q -10,-29 -13,-29 L -17,-29 L -8,-5 L -24,-4 L -30,-14 L -34,-14 L -30,0 L -34,14 L -30,14 L -24,4 L -8,5 L -17,29 L -13,29 Q -10,29 -9,28 L 6,5 L 19,5 C 25,5 32,3 32,0 Z" fill="#D59A24" stroke="#FFFDF6" stroke-width="2.1" stroke-linejoin="round"/>
+<path d="M 22,-2.8 Q 27,-2.2 28,0 Q 27,2.2 22,2.8 L 23,0 Z" fill="#173E47"/>
+<rect x="-3" y="-13" width="10" height="4" rx="1.5" fill="#af7e1e"/>
+<rect x="-3" y="9" width="10" height="4" rx="1.5" fill="#af7e1e"/>
+</svg>

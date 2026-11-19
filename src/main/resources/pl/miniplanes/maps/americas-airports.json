@@ -1,0 +1,317 @@
+[
+  {
+    "code": "MEX",
+    "name": "Mexico City Benito Juárez International Airport",
+    "city": "Mexico City",
+    "country": "MX",
+    "latitude": 19.435822,
+    "longitude": -99.07033,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "MIA",
+    "name": "Miami International Airport",
+    "city": "Miami",
+    "country": "US",
+    "latitude": 25.796011,
+    "longitude": -80.289751,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "BOG",
+    "name": "El Dorado International Airport",
+    "city": "Bogota",
+    "country": "CO",
+    "latitude": 4.70159,
+    "longitude": -74.1469,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "JFK",
+    "name": "John F. Kennedy International Airport",
+    "city": "New York",
+    "country": "US",
+    "latitude": 40.639447,
+    "longitude": -73.779317,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "YYZ",
+    "name": "Toronto Pearson International Airport",
+    "city": "Toronto",
+    "country": "CA",
+    "latitude": 43.675935,
+    "longitude": -79.629421,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "YVR",
+    "name": "Vancouver International Airport",
+    "city": "Vancouver",
+    "country": "CA",
+    "latitude": 49.193901,
+    "longitude": -123.183998,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "YUL",
+    "name": "Montreal / Pierre Elliott Trudeau International Airport",
+    "city": "Montréal",
+    "country": "CA",
+    "latitude": 45.467837,
+    "longitude": -73.742294,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "LAX",
+    "name": "Los Angeles International Airport",
+    "city": "Los Angeles",
+    "country": "US",
+    "latitude": 33.942501,
+    "longitude": -118.407997,
+    "shape": "DIAMOND"
+  },
+  {
+    "code": "SFO",
+    "name": "San Francisco International Airport",
+    "city": "San Francisco",
+    "country": "US",
+    "latitude": 37.619806,
+    "longitude": -122.374821,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "SEA",
+    "name": "Seattle–Tacoma International Airport",
+    "city": "Seattle",
+    "country": "US",
+    "latitude": 47.447943,
+    "longitude": -122.310276,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "DEN",
+    "name": "Denver International Airport",
+    "city": "Denver",
+    "country": "US",
+    "latitude": 39.860027,
+    "longitude": -104.673792,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "DFW",
+    "name": "Dallas Fort Worth International Airport",
+    "city": "Dallas-Fort Worth",
+    "country": "US",
+    "latitude": 32.896801,
+    "longitude": -97.038002,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "ORD",
+    "name": "Chicago O'Hare International Airport",
+    "city": "Chicago",
+    "country": "US",
+    "latitude": 41.9786,
+    "longitude": -87.9048,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "ATL",
+    "name": "Hartsfield Jackson Atlanta International Airport",
+    "city": "Atlanta",
+    "country": "US",
+    "latitude": 33.6367,
+    "longitude": -84.428101,
+    "shape": "STAR"
+  },
+  {
+    "code": "BOS",
+    "name": "Boston Logan International Airport",
+    "city": "Boston",
+    "country": "US",
+    "latitude": 42.36197,
+    "longitude": -71.0079,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "HAV",
+    "name": "José Martí International Airport",
+    "city": "Havana",
+    "country": "CU",
+    "latitude": 22.989200592041016,
+    "longitude": -82.40910339355469,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "SJU",
+    "name": "Luis Munoz Marin International Airport",
+    "city": "San Juan",
+    "country": "PR",
+    "latitude": 18.4394,
+    "longitude": -66.001801,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "GUA",
+    "name": "La Aurora International Airport",
+    "city": "Guatemala City",
+    "country": "GT",
+    "latitude": 14.582896,
+    "longitude": -90.527515,
+    "shape": "DIAMOND"
+  },
+  {
+    "code": "SJO",
+    "name": "Juan Santamaría International Airport",
+    "city": "San José",
+    "country": "CR",
+    "latitude": 9.99386,
+    "longitude": -84.208801,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "PTY",
+    "name": "Tocumen International Airport",
+    "city": "Tocumen",
+    "country": "PA",
+    "latitude": 9.07136,
+    "longitude": -79.383499,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "CCS",
+    "name": "Maiquetía Simón Bolívar International Airport",
+    "city": "Maiquetía",
+    "country": "VE",
+    "latitude": 10.602214,
+    "longitude": -66.991174,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "UIO",
+    "name": "Mariscal Sucre International Airport",
+    "city": "Quito",
+    "country": "EC",
+    "latitude": -0.125399,
+    "longitude": -78.354306,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "LIM",
+    "name": "Jorge Chávez International Airport",
+    "city": "Lima",
+    "country": "PE",
+    "latitude": -12.0219,
+    "longitude": -77.114305,
+    "shape": "HEXAGON"
+  },
+  {
+    "code": "LPB",
+    "name": "El Alto International Airport",
+    "city": "La Paz / El Alto",
+    "country": "BO",
+    "latitude": -16.510272,
+    "longitude": -68.189416,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "SCL",
+    "name": "Comodoro Arturo Merino Benítez International Airport",
+    "city": "Santiago",
+    "country": "CL",
+    "latitude": -33.390252,
+    "longitude": -70.794697,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "EZE",
+    "name": "Ezeiza International Airport - Ministro Pistarini",
+    "city": "Buenos Aires",
+    "country": "AR",
+    "latitude": -34.8222,
+    "longitude": -58.5358,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "MVD",
+    "name": "Carrasco General Cesáreo L. Berisso International Airport",
+    "city": "Ciudad de la Costa",
+    "country": "UY",
+    "latitude": -34.835647,
+    "longitude": -56.026497,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "GRU",
+    "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+    "city": "São Paulo",
+    "country": "BR",
+    "latitude": -23.431274,
+    "longitude": -46.469954,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "GIG",
+    "name": "Rio de Janeiro Galeão – Tom Jobim International Airport",
+    "city": "Rio De Janeiro",
+    "country": "BR",
+    "latitude": -22.809999,
+    "longitude": -43.250557,
+    "shape": "DIAMOND"
+  },
+  {
+    "code": "BSB",
+    "name": "Presidente Juscelino Kubitschek International Airport",
+    "city": "Brasília",
+    "country": "BR",
+    "latitude": -15.869167,
+    "longitude": -47.920834,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "REC",
+    "name": "Recife/Guararapes - Gilberto Freyre International Airport",
+    "city": "Recife",
+    "country": "BR",
+    "latitude": -8.12747,
+    "longitude": -34.922961,
+    "shape": "SQUARE"
+  },
+  {
+    "code": "FOR",
+    "name": "Pinto Martins International Airport",
+    "city": "Fortaleza",
+    "country": "BR",
+    "latitude": -3.775833,
+    "longitude": -38.532222,
+    "shape": "TRIANGLE"
+  },
+  {
+    "code": "MAO",
+    "name": "Eduardo Gomes International Airport",
+    "city": "Manaus",
+    "country": "BR",
+    "latitude": -3.03861,
+    "longitude": -60.049702,
+    "shape": "PENTAGON"
+  },
+  {
+    "code": "ASU",
+    "name": "Silvio Pettirossi International Airport",
+    "city": "Asunción",
+    "country": "PY",
+    "latitude": -25.240156,
+    "longitude": -57.519227,
+    "shape": "CIRCLE"
+  },
+  {
+    "code": "MDE",
+    "name": "Jose Maria Córdova International Airport",
+    "city": "Medellín",
+    "country": "CO",
+    "latitude": 6.16454,
+    "longitude": -75.4231,
+    "shape": "CROSS"
+  }
+]
